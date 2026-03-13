@@ -106,6 +106,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | Service | What it does | Funding / Status |
 |---------|-------------|-----------------|
 | [GNAP](https://github.com/farol-team/gnap) | Git-Native Agent Protocol — coordinate agent teams with just git, no servers | Open source |
+| [HiClaw](https://hiclaw.io) | Open-source Multi-Agent OS by Alibaba — Manager-Worker architecture over Matrix protocol, human-in-the-loop, agents never hold real credentials | Open source (Alibaba, Apache 2.0) |
 | [Google A2A](https://github.com/google/A2A) | Agent-to-Agent protocol by Google — discovery, task management, streaming | Google (open spec) |
 | [Anthropic MCP](https://modelcontextprotocol.io) | Model Context Protocol — standard for connecting agents to tools & data | Anthropic (open spec) |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Agent orchestration with handoffs, guardrails, tracing | OpenAI (open source) |
