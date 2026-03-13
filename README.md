@@ -71,6 +71,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Letta](https://letta.com) | Stateful agents with self-editing memory (formerly MemGPT) | Open source + cloud |
 | [Graphlit](https://graphlit.com) | Knowledge management & RAG infrastructure for agents | Active |
 | [Wolfram LLM API](https://products.wolframalpha.com/llm-api/documentation) | Computational knowledge API optimized for LLMs — math, science, real-world data in structured format | Wolfram (commercial) |
+| [Dolt](https://github.com/dolthub/dolt) | Git for data — MySQL-compatible database with branch, merge, diff and commit on SQL tables; built-in agent memory server | Open source (21k ⭐) |
 
 ## 🔧 Tools & Integrations
 
