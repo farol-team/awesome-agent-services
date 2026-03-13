@@ -150,13 +150,4 @@ This list covers the **infrastructure layer** — services where the primary use
 
 ## Contributing
 
-Found a service that's missing? [Open an issue](https://github.com/farol-team/awesome-agent-services/issues) or submit a PR.
-
-**Criteria:**
-- The service must be designed primarily **for AI agents**, not adapted from a human-first product
-- Must have a working product or public API (no vaporware)
-- Include: name, URL, one-line description, funding/status if known
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+Found a service that's missing? [Open an issue](https://github.com/farol-team/awesome-agent-services/issues) or submit a PR. See [contributing.md](contributing.md) for guidelines.
