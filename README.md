@@ -50,6 +50,7 @@ This list covers services where **the primary user is an AI agent**, not a human
 
 | Service | What it does | Funding / Status |
 |---------|-------------|-----------------|
+| [Lightpanda](https://lightpanda.io) | Headless browser for AI agents — 11x faster than Chrome, 9x less memory, CDP compatible | Open source (13.7k ⭐, Zig, AGPL-3.0) |
 | [Browserbase](https://browserbase.com) | Cloud browser infrastructure for agents — sessions, stealth, recordings | Notable Capital backed |
 | [Steel Browser](https://github.com/steel-dev/steel-browser) | Open-source browser API for agents — sessions, anti-detection, Playwright | Open source |
 | [Hyperbrowser](https://hyperbrowser.ai) | AI-native browser infra built for agents (YC W25) | Y Combinator |
