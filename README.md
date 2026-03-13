@@ -4,7 +4,10 @@
 
 Humans have Gmail, Chrome, Stripe, and Slack. Agents need their own.
 
-This list covers services where **the primary user is an AI agent**, not a human clicking buttons.
+**Not a list of agents. A list of services agents use.**
+
+Looking for agents themselves? See [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) (26k ⭐).
+This list covers the **infrastructure layer** — services where the primary user is an AI agent, not a human clicking buttons.
 
 ---
 
