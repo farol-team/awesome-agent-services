@@ -33,6 +33,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | Service | What it does | Funding / Status |
 |---------|-------------|-----------------|
 | [AgentMail](https://agentmail.to) | Email inboxes for agents — create, send, receive, thread, search via API | $6M seed (General Catalyst, Mar 2026) |
+| [DropMail](https://dropmail.me/api/) | Ephemeral email inboxes via GraphQL — designed for AI agents and automation, MCP server available | Open source / Free |
 | [MoltMail](https://moltmail.io) | Email + crypto wallet identity for agents (by EtherMail) | Launched Mar 2026 |
 
 ## 💳 Payments & Wallets
@@ -69,6 +70,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Zep](https://getzep.com) | Context engineering platform — temporal knowledge graph, 200ms retrieval | Active |
 | [Letta](https://letta.com) | Stateful agents with self-editing memory (formerly MemGPT) | Open source + cloud |
 | [Graphlit](https://graphlit.com) | Knowledge management & RAG infrastructure for agents | Active |
+| [Wolfram LLM API](https://products.wolframalpha.com/llm-api/documentation) | Computational knowledge API optimized for LLMs — math, science, real-world data in structured format | Wolfram (commercial) |
 
 ## 🔧 Tools & Integrations
 
