@@ -186,6 +186,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Skyfire KYA](https://skyfire.xyz/product/) | Know Your Agent — agent identity verification for commerce | Part of Skyfire |
 | [Anon](https://anon.com) | Auth proxy — let agents use services with your credentials securely | Active |
 | [Kontext](https://kontext.dev) | Identity infrastructure for AI agents — runtime credentials, act on behalf of users with full audit trail | Launched Mar 2026 |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana on-chain trust scoring for AI agent wallets — verify wallet identity before x402 payments; issues signed trust receipts (MCP: `score_agent`, `preflight_check`) | Active |
 
 ## 📞 Voice & Phone
 
