@@ -99,6 +99,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Modal](https://modal.com) | Serverless compute for agent workloads — GPU, CPU, cron | Active |
 | [Fly.io](https://fly.io) | Run agent containers globally — Machines API, per-user isolation | Active |
 | [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/) | Managed production runtime for AI agents at any scale — memory, auth, code interpreter, gateway, observability | AWS (public, 663 GitHub stars) |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Self-hosted agent runtime and MCP bridge — persistent sessions, approvals, sandbox backends, credentials, and audit/replay | Open source / Active |
 
 ## 📊 Observability & Monitoring
 
