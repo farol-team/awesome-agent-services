@@ -171,6 +171,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [GNAP](https://github.com/farol-team/gnap) | 20 | Git-Native Agent Protocol — coordinate agents via git push/pull, zero infrastructure | Open source |
 | [GitClaw](https://github.com/open-gitagent/gitclaw) | 140 | Agent-as-repo: identity, memory, tools, skills all version-controlled | Open source |
 | [jj-mailbox](https://github.com/MiaoDX/jj-mailbox) | 2 | Maildir for agents — structured message passing via jj VCS | Open source |
+| [YYLO](https://github.com/yylo-dev/yylo) | 57 | Command-line orchestrator for coding agents — typed tasks in dedicated branch/worktrees, merge-queue risk review, receipt-backed repository changes | Open source |
 
 ## 💼 Marketplaces & Earn
 
