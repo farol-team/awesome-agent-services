@@ -89,6 +89,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Airweave](https://airweave.ai) | Context retrieval layer for agents — search any SaaS app or database (Salesforce, GitHub, Slack, 100+ connectors) | Y Combinator (YC X25, 176 HN pts) |
 | [Metorial](https://metorial.com) | Vercel for MCP — deploy, host, and version MCP servers with one command | Y Combinator (YC F25, 59 HN pts) |
 | [AgentServices](https://agentservices.to) | 54 paid data APIs for AI agents — crypto market data, forex, stocks, AI inference, news. x402-enabled, 37 MCP tools. | Active |
+| [Invokely](https://invokely.ai/docs) | Hosted MCP lets agents query source-cited official statistics for U.S. states and counties, EU countries and regions, Spanish municipalities, and World Bank data for each country and the world *(Disclosure: I maintain Invokely)* | Free MCP: 500 calls/month; no-account trial: 25 calls/day/IP; REST data calls require Builder, Pro or prepaid credits ([pricing](https://invokely.ai/pricing)) |
 
 ## 🏗️ Sandboxes & Compute
 
