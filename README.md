@@ -36,6 +36,7 @@ This list covers the **infrastructure layer** — services where the primary use
 |---------|-------------|-----------------|
 | [AgentMail](https://agentmail.to) | Email inboxes for agents — create, send, receive, thread, search via API | $6M seed (General Catalyst, Mar 2026) |
 | [DropMail](https://dropmail.me/api/) | Ephemeral email inboxes via GraphQL — designed for AI agents and automation, MCP server available | Open source / Free |
+| [Mailows](https://www.mailows.com) | Email hosting where each agent gets its own inbox — read and send via remote MCP (OAuth 2.1), REST API, webhooks or A2A, with scoped, revocable grants | Free plan, paid from $18.99/mo |
 | [MoltMail](https://moltmail.io) | Email + crypto wallet identity for agents (by EtherMail) | Launched Mar 2026 |
 
 ## 💳 Payments & Wallets
