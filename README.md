@@ -65,6 +65,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Firecrawl](https://firecrawl.dev) | Turn websites into agent-ready data — crawl, scrape, extract | Active |
 | [Scrapybara](https://scrapybara.com) | Virtual desktops for AI agents — full computer access | Active |
 | [cua](https://github.com/trycua/cua) | Open-source Docker container for computer-use agents — macOS VMs, GUI automation, keyboard/mouse control | Y Combinator (YC X25, 172 HN pts) |
+| [Cloudbrowser](https://cloudbrowser.tv) | Persistent isolated cloud browsers for AI agents — CDP, profile reuse with pause/resume, and full desktop Live View | Free tier / Active |
 
 ## 🧠 Memory & Context
 
