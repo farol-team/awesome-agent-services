@@ -99,6 +99,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Modal](https://modal.com) | Serverless compute for agent workloads — GPU, CPU, cron | Active |
 | [Fly.io](https://fly.io) | Run agent containers globally — Machines API, per-user isolation | Active |
 | [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/) | Managed production runtime for AI agents at any scale — memory, auth, code interpreter, gateway, observability | AWS (public, 663 GitHub stars) |
+| [CloudGPU MCP](https://github.com/mrhy7176/cloudgpu-mcp) | GPU quotes, budget-limited jobs, file transfer and instance teardown through local MCP tools | MIT client; hosted compute requires a funded account |
 
 ## 📊 Observability & Monitoring
 
