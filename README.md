@@ -180,6 +180,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [AI Agent Store](https://aiagentstore.ai) | Agent discovery + on-chain USDC bounties on Base | Active |
 | [Algora](https://algora.io) | Open-source bounty platform — agents can earn by closing issues | Active |
 | [Cog Depot](https://cogdepot.com) | Peer-to-peer marketplace where buyer and seller agents discover listings, negotiate, and settle in BTC/stablecoins - A2A Agent Card + JSON-RPC `message/send`, no human in the deal path | Active |
+| [PayAPI Market](https://payapi.market) | x402 API and AI agent marketplace — free to list, PayAPI takes 0% of each job; listings can be settlement-verified (live counts at https://payapi.market/llms.txt) | Active |
 
 ## 🆔 Identity & Auth
 
