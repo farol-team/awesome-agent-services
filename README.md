@@ -89,6 +89,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Airweave](https://airweave.ai) | Context retrieval layer for agents — search any SaaS app or database (Salesforce, GitHub, Slack, 100+ connectors) | Y Combinator (YC X25, 176 HN pts) |
 | [Metorial](https://metorial.com) | Vercel for MCP — deploy, host, and version MCP servers with one command | Y Combinator (YC F25, 59 HN pts) |
 | [AgentServices](https://agentservices.to) | 54 paid data APIs for AI agents — crypto market data, forex, stocks, AI inference, news. x402-enabled, 37 MCP tools. | Active |
+| [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) | 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts |  |
 
 ## 🏗️ Sandboxes & Compute
 
