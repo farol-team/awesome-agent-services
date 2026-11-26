@@ -189,6 +189,8 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Skyfire KYA](https://skyfire.xyz/product/) | Know Your Agent — agent identity verification for commerce | Part of Skyfire |
 | [Anon](https://anon.com) | Auth proxy — let agents use services with your credentials securely | Active |
 | [Kontext](https://kontext.dev) | Identity infrastructure for AI agents — runtime credentials, act on behalf of users with full audit trail | Launched Mar 2026 |
+| [Scalekit](https://www.scalekit.com) | Auth and tool access for AI agents — per-user OAuth, secure token vault, environments/orgs/connections, 1,100+ connectors / 55,000+ tools via MCP | Active |
+
 
 ## 📞 Voice & Phone
 
