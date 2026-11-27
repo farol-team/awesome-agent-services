@@ -99,7 +99,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Modal](https://modal.com) | Serverless compute for agent workloads — GPU, CPU, cron | Active |
 | [Fly.io](https://fly.io) | Run agent containers globally — Machines API, per-user isolation | Active |
 | [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/) | Managed production runtime for AI agents at any scale — memory, auth, code interpreter, gateway, observability | AWS (public, 663 GitHub stars) |
-| [Sandscale](https://sandscale.dev) | Firecracker microVM per agent run — sandboxes, workspaces, build hosts and lab hosts, remote MCP server, per-tool allow/ask/deny policy and audit log | Active |
+| [Sandscale](https://sandscale.dev) | Firecracker microVM per agent run — sandboxes, workspaces, build hosts and lab hosts, remote MCP server, policy controls and audit log | Active |
 
 ## 📊 Observability & Monitoring
 
